@@ -4,7 +4,6 @@
 	<title>CRUD PHP dan MySQLi </title>
 </head>
 <body>
- 
 	<h2>CRUD DATA PELANGGAN </h2>
 	<br/>
 	<a href="tambah.php">+ TAMBAH PELANGGAN</a>
